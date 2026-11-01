@@ -165,6 +165,6 @@ The installer ISO has no `.vbox` file. The pre-built **VirtualBox** image is the
 ## 👤 Author
 
 **Yash Krishna Patil**
-B.Tech Information Technology, Pillai College of Engineering
+B.Tech Information Technology
 
 **Program:** Cybersecurity at Networkwalks | **Week:** 1 | **Project Module:** 1, Practical Lab Environment Setup
